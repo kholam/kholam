@@ -1,5 +1,6 @@
 
-<!---### Hi there 👋
+<!--
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,6 +9,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
---!>
+-->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kholam&count_private=true&?theme=solarized-dark))
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kholam&count_private=true&?theme=solarized-dark)
